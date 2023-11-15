@@ -1,0 +1,2 @@
+This is a Public Repo for releases of RheoData GoldenGateHA.  New releases will be added here as they are modified and released.
+Customers accessing this repo should have purchased a licnese from RheoData through hello@rheodata.Customers
